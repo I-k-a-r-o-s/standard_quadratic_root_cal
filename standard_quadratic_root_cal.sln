@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "standard_quadratic_root_cal", "standard_quadratic_root_cal.csproj", "{A6505033-4FE1-479C-AB0B-F6B1F37179E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6505033-4FE1-479C-AB0B-F6B1F37179E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6505033-4FE1-479C-AB0B-F6B1F37179E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6505033-4FE1-479C-AB0B-F6B1F37179E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6505033-4FE1-479C-AB0B-F6B1F37179E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A67E329-98CA-43F1-A52F-6EE15D79175B}
+	EndGlobalSection
+EndGlobal
